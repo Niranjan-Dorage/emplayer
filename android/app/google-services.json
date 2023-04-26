@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "205127110602",
+    "project_id": "upbeatz-main",
+    "storage_bucket": "upbeatz-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205127110602:android:3389d42b10ea2d2a0d8933",
+        "android_client_info": {
+          "package_name": "com.example.emplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205127110602-juv0et8sccer638ho0vo31jp2pskuie5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkx2RIBUhXRNcIns6PU6Ebr-KuCJSeMlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205127110602-juv0et8sccer638ho0vo31jp2pskuie5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "205127110602-onv6msg7ai0kp3suq6m7r0ab0l44nki9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emplayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

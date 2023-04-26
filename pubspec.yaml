@@ -1,0 +1,62 @@
+name: emplayer
+description: A new Flutter project.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  async: ^2.10.0
+  audioplayers: ^4.0.1
+  characters: ^1.2.1
+  cloud_firestore: ^4.5.2
+  community_material_icon: ^5.9.55
+  cupertino_icons: ^1.0.2
+  curved_navigation_bar: ^1.0.3
+  firebase_auth: ^4.4.2
+  firebase_core: ^2.10.0
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.2.19
+  font_awesome_flutter: ^10.2.1
+  image_picker: ^0.8.7+1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/icons/
+
+  fonts:
+    - family: Quantify
+      fonts:
+        - asset: assets/fonts/Quantify.ttf
+
+    - family: Heavitas
+      fonts:
+        - asset: assets/fonts/Heavitas.ttf
+
+    - family: Gotham
+      fonts:
+        - asset: assets/fonts/Gotham.ttf
+    - family: Bebas
+      fonts:
+        - asset: assets/fonts/Bebas.ttf
+    - family: Right
+      fonts:
+        - asset: assets/fonts/Right.ttf
+    - family: Poppins-Regular
+
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+    - family: Integral
+      fonts:
+        - asset: assets/fonts/IntegralRegular.otf
